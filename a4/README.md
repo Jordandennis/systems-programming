@@ -1,5 +1,7 @@
 # a4
 
+## Note
+This assignment began with a skeleton provided by the instructor. The following README came with the repository when it was cloned to start the assignment
 
 
 ## Getting started
